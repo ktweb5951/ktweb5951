@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Rect&text=WELCOME&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=BACKEND&fontAlign=30&fontSize=30&desc=KTWEB%20PROFILE&descAlign=60&descAlignY=50&theme=radical)
+
 ### Hi there 👋
 
 <!--
